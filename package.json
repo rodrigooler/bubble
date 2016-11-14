@@ -23,6 +23,7 @@
     "webpack": "^1.13.3"
   },
   "dependencies": {
-    "babel-preset-stage-1": "^6.16.0"
+    "babel-preset-stage-1": "^6.16.0",
+    "ramda": "^0.22.1"
   }
 }
